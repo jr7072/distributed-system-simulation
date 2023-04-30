@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<simulation duration="100000000" cycles_per_ms="1000000" etm="wcet">
+	<sched overhead="0" overhead_activate="0" overhead_terminate="0" class="simso.schedulers.EDF"/>
+	<caches memory_access_time="100"/>
+	<processors>
+		<processor name="core 0" id="0" cl_overhead="0" cs_overhead="0" speed="1"/>
+		<processor name="core 1" id="1" cl_overhead="0" cs_overhead="0" speed="1"/>
+		<processor name="core 2" id="2" cl_overhead="0" cs_overhead="0" speed="1"/>
+		<processor name="core 3" id="3" cl_overhead="0" cs_overhead="0" speed="1"/>
+		<processor name="core 4" id="4" cl_overhead="0" cs_overhead="0" speed="1"/>
+		<processor name="core 5" id="5" cl_overhead="0" cs_overhead="0" speed="1"/>
+		<processor name="core 6" id="6" cl_overhead="0" cs_overhead="0" speed="1"/>
+		<processor name="core 7" id="7" cl_overhead="0" cs_overhead="0" speed="1"/>
+		<processor name="core 8" id="8" cl_overhead="0" cs_overhead="0" speed="1"/>
+		<processor name="core 9" id="9" cl_overhead="0" cs_overhead="0" speed="1"/>
+		<processor name="core 10" id="10" cl_overhead="0" cs_overhead="0" speed="1"/>
+		<processor name="core 11" id="11" cl_overhead="0" cs_overhead="0" speed="1"/>
+		<processor name="core 12" id="12" cl_overhead="0" cs_overhead="0" speed="1"/>
+		<processor name="core 13" id="13" cl_overhead="0" cs_overhead="0" speed="1"/>
+		<processor name="core 14" id="14" cl_overhead="0" cs_overhead="0" speed="1"/>
+		<processor name="core 15" id="15" cl_overhead="0" cs_overhead="0" speed="1"/>
+		<processor name="core 16" id="16" cl_overhead="0" cs_overhead="0" speed="1"/>
+		<processor name="core 17" id="17" cl_overhead="0" cs_overhead="0" speed="1"/>
+		<processor name="core 18" id="18" cl_overhead="0" cs_overhead="0" speed="1"/>
+		<processor name="core 19" id="19" cl_overhead="0" cs_overhead="0" speed="1"/>
+		<processor name="core 20" id="20" cl_overhead="0" cs_overhead="0" speed="1"/>
+		<processor name="core 21" id="21" cl_overhead="0" cs_overhead="0" speed="1"/>
+		<processor name="core 22" id="22" cl_overhead="0" cs_overhead="0" speed="1"/>
+		<processor name="core 23" id="23" cl_overhead="0" cs_overhead="0" speed="1"/>
+		<processor name="core 24" id="24" cl_overhead="0" cs_overhead="0" speed="1"/>
+		<processor name="core 25" id="25" cl_overhead="0" cs_overhead="0" speed="1"/>
+		<processor name="core 26" id="26" cl_overhead="0" cs_overhead="0" speed="1"/>
+		<processor name="core 27" id="27" cl_overhead="0" cs_overhead="0" speed="1"/>
+		<processor name="core 28" id="28" cl_overhead="0" cs_overhead="0" speed="1"/>
+		<processor name="core 29" id="29" cl_overhead="0" cs_overhead="0" speed="1"/>
+		<processor name="core 30" id="30" cl_overhead="0" cs_overhead="0" speed="1"/>
+		<processor name="core 31" id="31" cl_overhead="0" cs_overhead="0" speed="1"/>
+	</processors>
+	<tasks/>
+</simulation>
